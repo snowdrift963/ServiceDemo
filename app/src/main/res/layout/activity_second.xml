@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:onClick="startService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="startService"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:onClick="bindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bindService"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:onClick="callServiceMethod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="callServiceInnerMethod"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:onClick="unBindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="unBindService"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:onClick="stopService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="stopService"
+        android:textAllCaps="false"/>
+
+</LinearLayout>
