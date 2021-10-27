@@ -58,4 +58,8 @@ public class SecondService extends Service {
         Toast.makeText(this,"服务内部方法被调用",Toast.LENGTH_SHORT).show();
     }
 
+    @Override
+    public void onStart(Intent intent, int startId) {
+        super.onStart(intent, startId);
+    }
 }
