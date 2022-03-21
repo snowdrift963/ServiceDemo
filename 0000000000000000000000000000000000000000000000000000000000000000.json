@@ -1,6 +1,5 @@
 {
     "name": "Thor's hammer",
     "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-    "image": "https://github.com/snowdrift963/ServiceDemo/blob/master/picture1.png",
-    "strength": 20
+    "image": "https://github.com/snowdrift963/ServiceDemo/blob/master/picture1.png"
 }
