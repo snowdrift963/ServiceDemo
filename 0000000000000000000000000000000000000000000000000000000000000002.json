@@ -1,10 +1,4 @@
 {
-    "name": "Thor's hammer",
-    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-    "image": "https://raw.githubusercontent.com/snowdrift963/ServiceDemo/master/picture2.png",
-    "strength": 20
-}
-{
   "description": "橙色的", 
   "external_url": "https://github.com/snowdrift963/ServiceDemo/edit/master/", 
   "image": "https://raw.githubusercontent.com/snowdrift963/ServiceDemo/master/picture2.png", 
