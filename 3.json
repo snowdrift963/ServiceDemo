@@ -2,5 +2,6 @@
     "name": "Thor's hammer",
     "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
     "image": "https://raw.githubusercontent.com/snowdrift963/ServiceDemo/master/picture3.png",
-    "strength": 20
+    "strength": 20,
+    "external_url": "https://nft.swreborn.com/erc721/tokens/10"
 }
